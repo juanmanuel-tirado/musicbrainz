@@ -1,2 +1,12 @@
 # musicbrainz
-Musicbrainz dataset
+
+This project contains a sample of data extracte from musicbrainz.com
+
+The recordings.csv file has recordings of a set of bands and some additional info. 
+
+The structure is as follows:
+
+band,country,genre,track name, album, length (milliseconds), score, year of release
+
+Tori Amos,US,alternative rock,"Under the Pink","The Waitress",190440,100,1994
+
